@@ -1,2 +1,2 @@
 config: 
-  version=1111
+  init: version=1111
